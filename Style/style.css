@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    font-weight: bolder;
+}
+
+.content_container {
+
+    width: 20%;
+    margin: auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    border: blue 1px solid;
+    height: 500px;
+    padding: 0 0 3rem 0;
+    border-radius: 2rem;
+    background-color: lightblue;
+
+}
+
+.label_design {
+
+    margin: 2rem 2rem 2rem 2rem ;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 100%;
+
+
+}
+
+input {
+
+    width: 40%;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: initial;
+}
+
+.calculate {
+
+    border: 1px solid green;
+    border-radius: 2rem;
+    font-size: 14px;
+    width: 60%;
+    height: 80%;
+    margin: auto;
+    margin-top: 0.3rem;
+    background-color: rgb(135, 221, 135);
+
+}
+.calculate h2 {
+
+    font-size: small;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calculate:hover {
+
+    background-color: green;
+}
+
+.answer {
+
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
