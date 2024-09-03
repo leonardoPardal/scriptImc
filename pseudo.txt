@@ -1,7 +1,0 @@
-1 -Criar label com texto a minha idade
-2- criar um input (id = label) palceholder (ex: 18)
-3- h1 botão a dizer enviar
-4- h2 em branco onde aparece o texto 
-5-colocar os links script e css
-6- dar o estilo ao projeto de forma a que o h1 fique um botão clicavel
-7-colocar os if's no script para verificar o input
